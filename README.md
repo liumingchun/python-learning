@@ -1,2 +1,21 @@
-# python-learning
-laerning python from the book - Computer Programming for Kids and Other Beginners
+### 学习python，本仓库保存了学习时的练习代码
+学习python使用的书籍是《与孩子一起学编程》-Computer Programming for Kids and Other Beginners
+
+1.  第一章 出发吧
+2.  第二章 内存和变量
+3.  第三章 数学运算
+4.  第四章 数据类型
+5.  第五章 数据类型
+6.  第六章 GUI
+7.  第七章 判断
+8.  第八章 循环
+9.  第九章 注释
+10. 第十章 滑雪游戏
+11. 第十一章 嵌套与可变循环
+
+
+
+> 每日练写，本月内学入门python，加油！！
+
+### 开源项目
+> pass
